@@ -1,22 +1,36 @@
-# 💫 About Me:
-# ¡Hola! Soy Violeta ⚖️ 📊<br><br>Soy **Licenciada en Derecho** con una sólida transición hacia el **Análisis de Datos**. Mi formación me permite combinar el pensamiento analítico y la rigurosidad del mundo legal con herramientas tecnológicas para extraer insights de valor y optimizar la toma de decisiones.<br><br>Recientemente completé un intensivo **Bootcamp en Análisis de Datos**, donde transformé mi capacidad de interpretación normativa en capacidad de interpretación de datos.<br><br>---<br><br>
-🎓 Mi Perfil Híbrido<br>*   **De las leyes a los datos:** Experiencia en análisis de estructuras complejas y normativa.<br>*   **Enfoque:** Especial interés en la visualización de datos, automatización de reportes y análisis predictivo.<br>*   **Mentalidad:** Orientada al detalle, la ética de datos y la resolución de problemas.<br><br>---<br><br>
-🛠️ Stack Tecnológico<br><br>**Análisis y Procesamiento:**<br>![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)<br>![SQL](https://img.shields.io/badge/sql-%23000.svg?style=for-the-badge&logo=postgresql&logoColor=white)<br>![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)<br><br>**Visualización de Datos:**<br>![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white)<br>![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=microsoftpowerbi&logoColor=black)<br><br>
+# ¡Hola! Soy Violeta 👋 ⚖️📊
+
+**Consultora de Data Analytics | Especialista en Visualización de Datos | Full Stack Developer**
+
+Soy una profesional con un perfil híbrido único: licenciada en **Derecho** con una sólida transición hacia la tecnología. Mi enfoque combina la rigurosidad analítica legal con la potencia técnica de herramientas modernas. Me especializo en transformar datos complejos en soluciones visuales accionables sobre **Power BI, Tableau y Microsoft Fabric**. Mi base en desarrollo web me permite, además, dar un enfoque de producto y UX a cada dashboard y solución analítica que diseño.
 
 
- 🌐 Socials:
-[!LinkedIn(https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](www.linkedin.com/in/
-violeta-pufulete-3903b41a4
-) [![Mastodon](https://img.shields.io/badge/-MASTODON-%232B90D9?logo=mastodon&logoColor=white)](https://mastodon.social/@Violeta Pufulete) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:violetanys@gmail.com) 
 
- 💻 Tech Stack:
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=Violetanys&theme=cobalt&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=Violetanys&theme=cobalt&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=Violetanys&theme=cobalt&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+ 🛠️ Mi Stack Tecnológico
+
+| Especialidad | Herramientas & Lenguajes |
+| :--- | :--- |
+| **Visualización (BI)** | ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=microsoftpowerbi&logoColor=black) ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white) ![Microsoft Fabric](https://img.shields.io/badge/Microsoft_Fabric-0078D4?style=for-the-badge&logo=microsoft&logoColor=white) |
+| **Data & Back-end** | ![SQL](https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=postgresql&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white) |
+| **Front-end Web** | ![React](https://img.shields.io/badge/React-20232a?style=for-the-badge&logo=react&logoColor=61DAFB) ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white) |
+
+
+ 🚀 Lo que aporto a tu equipo
+
+*   **Storytelling de Datos:** Diseño Dashboards interactivos en **Power BI y Tableau** que cuentan historias claras para facilitar decisiones estratégicas.
+*   **Análisis y ETL:** Extracción, limpieza y procesamiento de grandes volúmenes de datos usando SQL y Python.
+*   **Automatización:** Optimización de procesos y flujos de trabajo mediante scripts personalizados y modelos de datos eficientes.
+*   **Visión Híbrida:** Capacidad para entender problemas de negocio complejos y traducirlos en soluciones técnicas precisas, con el detalle y la ética propios del mundo legal.
+
+💡 Mi ADN Profesional
+*   ✔️ **Adaptabilidad:** Aprendizaje continuo y flexibilidad ante nuevas tecnologías.
+*   ✔️ **Compromiso:** Enfoque detallado para superar las expectativas en cada proyecto.
+*   ✔️ **Colaboración:** Habilidad para trabajar en entornos dinámicos con perfiles técnicos y de negocio.
+
+
+ 📫 Conectemos
+*   📧 **Email:** [violetanys@gmail.com](mailto:violetanys@gmail.com)
+*   💼 **LinkedIn:** [linkedin.com/in/violeta-pufulete](https://www.linkedin.com/in/violeta-pufulete-3903b41a4/)
 
 ---
-[![](https://komarev.com/ghpvc/?username=Violetanys&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+*"Interpretando el presente a través de los datos para construir el éxito del futuro."*
