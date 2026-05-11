@@ -1,6 +1,6 @@
 # ¡Hola! Soy Violeta 👋 ⚖️📊
 
-**Consultora de Data Analytics | Especialista en Visualización de Datos | Full Stack Developer**
+**Consultora de Data Analytics | Especialista en Visualización de Datos**
 
 Soy una profesional con un perfil híbrido único: licenciada en **Derecho** con una sólida transición hacia la tecnología. Mi enfoque combina la rigurosidad analítica legal con la potencia técnica de herramientas modernas. Me especializo en transformar datos complejos en soluciones visuales accionables sobre **Power BI, Tableau y Microsoft Fabric**. Mi base en desarrollo web me permite, además, dar un enfoque de producto y UX a cada dashboard y solución analítica que diseño.
 
@@ -12,7 +12,7 @@ Soy una profesional con un perfil híbrido único: licenciada en **Derecho** con
 | :--- | :--- |
 | **Visualización (BI)** | ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=microsoftpowerbi&logoColor=black) ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white) ![Microsoft Fabric](https://img.shields.io/badge/Microsoft_Fabric-0078D4?style=for-the-badge&logo=microsoft&logoColor=white) |
 | **Data & Back-end** | ![SQL](https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=postgresql&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white) |
-| **Front-end Web** | ![React](https://img.shields.io/badge/React-20232a?style=for-the-badge&logo=react&logoColor=61DAFB) ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white) |
+
 
 
  🚀 Lo que aporto a tu equipo
