@@ -28,7 +28,7 @@ Soy una profesional con un perfil híbrido único: licenciada en **Derecho** con
 *   ✔️ **Colaboración:** Habilidad para trabajar en entornos dinámicos con perfiles técnicos y de negocio.
 
 
- 📫 Conectemos
+ 📫 Conectamos?
 *   📧 **Email:** [violetanys@gmail.com](mailto:violetanys@gmail.com)
 *   💼 **LinkedIn:** [linkedin.com/in/violeta-pufulete](https://www.linkedin.com/in/violeta-pufulete-3903b41a4/)
 
