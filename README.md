@@ -2,7 +2,7 @@
 
 **Consultora de Data Analytics | Especialista en Visualización de Datos**
 
-Soy una profesional con un perfil híbrido único: licenciada en **Derecho** con una sólida transición hacia la tecnología. Mi enfoque combina la rigurosidad analítica legal con la potencia técnica de herramientas modernas. Me especializo en transformar datos complejos en soluciones visuales accionables sobre **Power BI, Tableau y Microsoft Fabric**. Mi base en desarrollo web me permite, además, dar un enfoque de producto y UX a cada dashboard y solución analítica que diseño.
+Soy una profesional con un perfil híbrido único: licenciada en **Derecho** con una sólida transición hacia la tecnología. Mi enfoque combina la rigurosidad analítica legal con la potencia técnica de herramientas modernas. Me especializo en transformar datos complejos en soluciones visuales accionables sobre **Power BI, Tableau y Microsoft Fabric**.
 
 
 
